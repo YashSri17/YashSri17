@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashaswi Srivastava</h1>
 <h3 align="center">A Passionate Developer and Data Enthusiast.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/3b0b88b6-cf2a-4e79-92aa-8fdb4e3de82e)">
-
 - 🌱 I’m currently diving more into **tech and data.**
 
 - 👨‍💻 All of my data projects are also available at [https://portfolio-da-pi.vercel.app/](https://portfolio-da-pi.vercel.app/)
 
-- 📝 I'm also good at [Graphic Designing, Oratory and Writing Stuffs.](Graphic Designing, Oratory and Writing Stuffs.)
+- 📝 I'm also good at Graphic Designing, Oratory and Writing Stuffs.
 
 - 💬 Ask me about **Data Science, Software Development, Machine Learning, Analytics, Power BI Web Development and tech solutions.**
 
