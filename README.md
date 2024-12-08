@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashaswi Srivastava</h1>
 <h3 align="center">A Passionate Developer and Data Enthusiast.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/3b0b88b6-cf2a-4e79-92aa-8fdb4e3de82e)")
+![image](https://github.com/user-attachments/assets/3b0b88b6-cf2a-4e79-92aa-8fdb4e3de82e)
 
 >
 
