@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Yashaswi Srivastava</h1>
 <h3 align="center">A Passionate Developer and Data Enthusiast.</h3>
 
